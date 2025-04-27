@@ -104,19 +104,17 @@ Evaluates how well the model performs on the selected dataset.
 ⚡ **User-Friendly Interface** – No coding required, just upload and analyze!  
 
 ---
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/1.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/2.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy%202.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/3.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy%203.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/4.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy%204.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/5.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy%206.png)
 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/6.png)
+![img](https://github.com/Svadha29/Model_Lens/blob/07ff17c0a85a03ba1be05a9b1de37936f5c2d0e5/images/image%20copy%205.png)
 
-## **Deployed on streamlit community cloud** 
-![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/7.png)
 
 🚀 **Explore, Explain, and Evaluate AI with ModelLens!** 🎯
