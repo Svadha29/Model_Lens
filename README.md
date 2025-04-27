@@ -1,6 +1,5 @@
 # **ModelLens**  
 🚀 *A Clear View Into AI Predictions and Accuracy*  
-Live Demo - [Click Here](https://modellens.streamlit.app/)
 
 ---  
 
@@ -121,5 +120,3 @@ Evaluates how well the model performs on the selected dataset.
 ![img](https://github.com/vidhi-jaju/ModelLens/blob/bd326adab6a8010541f7f263e776a24237090f4c/images/7.png)
 
 🚀 **Explore, Explain, and Evaluate AI with ModelLens!** 🎯
-
-
